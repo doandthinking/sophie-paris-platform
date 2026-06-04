@@ -1,0 +1,9 @@
+id,partnerName,type,priority,status,nextAction,manualVerificationRequired
+partner-bateaux-parisiens,Bateaux Parisiens,cruise-operator,P0,contact-planned,Verify public professional contacts before sending,true
+partner-vedettes-paris,Vedettes de Paris,cruise-operator,P0,contact-planned,Verify official contact page,true
+partner-pont-neuf,Vedettes du Pont Neuf,cruise-operator,P0,contact-planned,Confirm group and partner link options,true
+partner-montmartre,Musée de Montmartre,museum,P0,research,Verify group and external guide rules,true
+partner-marmottan,Musée Marmottan Monet,museum,P0,research,Research professional group rules,true
+partner-jacquemart,Musée Jacquemart-André,museum,P0,contact-planned,Verify group contact before sending,true
+partner-fngic,FNGIC,guide-network,P0,research,Verify official contact entry,true
+partner-parisjetaime,Paris je t'aime,tourism-network,P0,research,Review membership and professional resources,true

@@ -1,0 +1,59 @@
+{
+  "brand": {
+    "name": "Paris Local Link",
+    "tagline": "Experience Paris with clarity, confidence and a local touch."
+  },
+  "nav": {
+    "home": "Home",
+    "signature": "Paris Signature",
+    "certified": "Certified guides",
+    "cruises": "Seine cruises",
+    "local": "Local help",
+    "safe": "Safe Paris",
+    "community": "Paris Together",
+    "rewards": "Points",
+    "providers": "Become a provider",
+    "language": "Language",
+    "book": "Book",
+    "account": "My account"
+  },
+  "common": {
+    "demo": "DEMO",
+    "demoFeature": "Demo feature",
+    "comingSoon": "Coming soon",
+    "contactPlanned": "Partner discussion",
+    "testVersion": "Test version",
+    "learnMore": "Learn more",
+    "requestBooking": "Send request",
+    "manualConfirm": "Manual confirmation",
+    "noRealPayment": "No real payment is enabled",
+    "officialFinal": "Final rules are confirmed by the operator or official organization",
+    "privacyWarning": "Do not enter passport numbers, bank cards, full medical records, hotel room numbers or unnecessary sensitive information."
+  },
+  "home": {
+    "title": "Experience Paris with clarity, confidence and a local touch",
+    "subtitle": "Certified cultural tours, local assistance, selected Seine experiences, emergency resource navigation and safer traveler activities.",
+    "explore": "Explore experiences",
+    "book": "Request a service",
+    "cruise": "View Seine cruises",
+    "emergency": "Need urgent help",
+    "trust": ["Certified guide review", "Local provider review", "Four-language information", "Official resource navigation", "Mobile-first use"],
+    "signatureTitle": "Paris Signature inspiration",
+    "safeTitle": "In trouble? Pause and take the next step.",
+    "pointsTitle": "Book, review and join activities to collect Paris Welcome Points.",
+    "togetherTitle": "Traveling solo in Paris can still feel safer and more social.",
+    "reviewsTitle": "What travelers will say",
+    "reviewsDemo": "Real traveler reviews will be shown after initial services and publishing consent."
+  },
+  "sections": {
+    "services": "Services",
+    "cruises": "Seine cruises",
+    "safe": "Safe Paris",
+    "community": "Paris Together",
+    "rewards": "Paris Welcome Points",
+    "reviews": "Review structure",
+    "admin": "Demo admin",
+    "legal": "Legal placeholders",
+    "partners": "Partner presentation"
+  }
+}

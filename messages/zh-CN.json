@@ -1,0 +1,59 @@
+{
+  "brand": {
+    "name": "巴黎安心行",
+    "tagline": "用熟悉的语言，更安心、更深入地体验巴黎。"
+  },
+  "nav": {
+    "home": "首页",
+    "signature": "巴黎精选",
+    "certified": "持证讲解",
+    "cruises": "塞纳河游船",
+    "local": "本地协助",
+    "safe": "安心巴黎",
+    "community": "同行巴黎",
+    "rewards": "积分",
+    "providers": "成为服务者",
+    "language": "语言",
+    "book": "预约",
+    "account": "我的"
+  },
+  "common": {
+    "demo": "DEMO",
+    "demoFeature": "演示功能",
+    "comingSoon": "即将上线",
+    "contactPlanned": "合作洽谈中",
+    "testVersion": "测试版",
+    "learnMore": "查看详情",
+    "requestBooking": "提交预约意向",
+    "manualConfirm": "人工确认",
+    "noRealPayment": "当前不启用真实支付",
+    "officialFinal": "最终规则以运营方或官方机构确认为准",
+    "privacyWarning": "请勿填写护照号码、银行卡、完整医疗记录、酒店房间号或其他不必要的敏感信息。"
+  },
+  "home": {
+    "title": "用中文，更安心地体验巴黎",
+    "subtitle": "持证文化讲解、本地生活协助、塞纳河精选体验、紧急便民导航和安全同行活动。",
+    "explore": "探索巴黎体验",
+    "book": "预约个性化服务",
+    "cruise": "查看塞纳河游船",
+    "emergency": "遇到紧急情况",
+    "trust": ["持证讲解员审核", "本地服务者资料审核", "四语信息", "官方便民入口导航", "手机端快速使用"],
+    "signatureTitle": "巴黎限定灵感",
+    "safeTitle": "遇到困难？先别慌。",
+    "pointsTitle": "预订、评价、参与活动，积累巴黎友好积分。",
+    "togetherTitle": "一个人来巴黎，也可以找到合适的同行方式。",
+    "reviewsTitle": "游客怎么说",
+    "reviewsDemo": "真实游客评价将在完成首批服务并获得授权后展示。"
+  },
+  "sections": {
+    "services": "服务",
+    "cruises": "塞纳河游船",
+    "safe": "安心巴黎",
+    "community": "同行巴黎",
+    "rewards": "巴黎友好积分",
+    "reviews": "真实评价结构",
+    "admin": "Admin 演示后台",
+    "legal": "法律页面占位",
+    "partners": "合作方展示页"
+  }
+}

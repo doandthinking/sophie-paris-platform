@@ -1,0 +1,21 @@
+# Contract Checklist
+
+- Contracting entity TODO.
+- Seller of record.
+- Who collects payment.
+- Who issues tickets or vouchers.
+- Who handles refund.
+- Brand and logo rights.
+- Image/video rights.
+- Data sharing.
+- User communication.
+- Cancellation and delay rules.
+- Insurance.
+- Liability boundaries.
+- Guide qualification requirements.
+- Transport qualification requirements.
+- Pilot duration.
+- Termination.
+- Reporting.
+- Confidentiality.
+- Legal review before signing.

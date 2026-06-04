@@ -1,0 +1,59 @@
+{
+  "brand": {
+    "name": "Paris Local Link",
+    "tagline": "Découvrez Paris avec plus de sérénité, dans votre langue."
+  },
+  "nav": {
+    "home": "Accueil",
+    "signature": "Sélection Paris",
+    "certified": "Guides certifiés",
+    "cruises": "Croisières Seine",
+    "local": "Aide locale",
+    "safe": "Paris sérénité",
+    "community": "Paris Together",
+    "rewards": "Points",
+    "providers": "Devenir prestataire",
+    "language": "Langue",
+    "book": "Réserver",
+    "account": "Mon espace"
+  },
+  "common": {
+    "demo": "DEMO",
+    "demoFeature": "Fonction de démonstration",
+    "comingSoon": "Bientôt disponible",
+    "contactPlanned": "Discussion partenaire",
+    "testVersion": "Version test",
+    "learnMore": "En savoir plus",
+    "requestBooking": "Envoyer une demande",
+    "manualConfirm": "Confirmation manuelle",
+    "noRealPayment": "Aucun paiement réel activé",
+    "officialFinal": "Les règles finales sont confirmées par l'opérateur ou l'organisme officiel",
+    "privacyWarning": "Ne saisissez pas de numéro de passeport, carte bancaire, dossier médical complet, numéro de chambre d'hôtel ou donnée sensible inutile."
+  },
+  "home": {
+    "title": "Explorer Paris avec clarté, confiance et accompagnement local",
+    "subtitle": "Guides culturels certifiés, assistance locale, croisières sur la Seine, ressources d'urgence et activités sûres entre voyageurs.",
+    "explore": "Explorer les expériences",
+    "book": "Demander un service",
+    "cruise": "Voir les croisières",
+    "emergency": "Besoin d'aide",
+    "trust": ["Guides vérifiés", "Prestataires locaux examinés", "Informations en quatre langues", "Navigation vers ressources officielles", "Usage mobile rapide"],
+    "signatureTitle": "Inspirations parisiennes",
+    "safeTitle": "Un problème à Paris ? Gardez votre calme.",
+    "pointsTitle": "Réserver, évaluer et participer pour accumuler des Paris Welcome Points.",
+    "togetherTitle": "Même seul à Paris, trouvez une manière sûre de partager des activités.",
+    "reviewsTitle": "Ce que diront les voyageurs",
+    "reviewsDemo": "Les avis réels seront affichés après les premiers services et autorisation de publication."
+  },
+  "sections": {
+    "services": "Services",
+    "cruises": "Croisières",
+    "safe": "Paris sérénité",
+    "community": "Paris Together",
+    "rewards": "Paris Welcome Points",
+    "reviews": "Structure des avis",
+    "admin": "Admin démo",
+    "legal": "Pages juridiques",
+    "partners": "Présentation partenaires"
+  }
+}
